@@ -1,0 +1,3 @@
+Task3:
+
+This Streamlit app serves as an interactive educational tool by allowing users to explore topics such as Quantitative Analysis and Data Structures through a clean interface. Users can select a topic, view overviews, expand key concepts, and optionally dive into detailed explanations. The layout enhances learning with sidebar filters, tabs, and expandable sections for organized content delivery.

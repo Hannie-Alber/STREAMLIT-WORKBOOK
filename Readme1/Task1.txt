@@ -1,0 +1,3 @@
+Task1:
+
+This Streamlit app collects user information by asking for their name and age. When the "Submit" button is clicked, it displays a personalized greeting if the name is provided, or a warning message if the name field is left empty. The app uses basic input widgets (text_input, number_input) and conditionally renders feedback using st.success or st.warning.

@@ -1,0 +1,2 @@
+Task6:
+This Streamlit app uses OpenCV to capture live webcam video, apply real-time edge detection filters, and take snapshots. Users can adjust filter settings via the sidebar. However, the continuous `while` loop blocks proper rendering, so the video may not display correctly.

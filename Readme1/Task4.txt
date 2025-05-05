@@ -1,0 +1,3 @@
+Task4:
+
+This code demonstrates how to integrate external API data into a Streamlit dashboard for live data visualization. Users can interactively select a country from the sidebar, and the app dynamically updates to show COVID-19 statistics using various charts and a data table. It effectively combines data retrieval, processing, and presentation in a user-friendly interface.

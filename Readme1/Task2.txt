@@ -1,0 +1,3 @@
+Task2:
+
+This Streamlit app allows users to upload and explore CSV files with at least 5 columns. It displays the raw data optionally and enables users to filter the data based on selected column values. This provides a simple and interactive way to view and analyze CSV content.
